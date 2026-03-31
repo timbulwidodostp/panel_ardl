@@ -1,6 +1,8 @@
 # panel_ardl
 Panel Autoregressive Distributed Lag (ARDL) Estimation Use panel_ardl (ardlverse) With (In) R Software
 
+https://www.youtube.com/watch?v=fcxvp60gb70
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
